@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body{
+    background-image: url(../img/imc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
